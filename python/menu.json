@@ -1,0 +1,9 @@
+{
+    "one_time": false,
+  "buttons": [
+      [
+      {"action": {"type": "text","label": "Посмотреть оценки"},"color": "primary"} 
+      ]
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "one_time": false,
+  "buttons": [
+      [
+      {"action": {"type": "text","label": "Посмотреть оценки"},"color": "default"} 
+      ],
+      [
+      {"action": {"type": "text","label": "Посчитать оценки"},"color": "positive"}
+      ],
+      [
+      {"action": {"type": "text","label": "Добавить оценки"},"color": "positive"},
+      {"action": {"type": "text","label": "Удалить оценку"},"color": "negative"} 
+      ],
+      [
+      {"action": {"type": "text","label": "Добавить предмет"},"color": "positive"},
+      {"action": {"type": "text","label": "Удалить предмет"},"color": "negative"}
+      ],
+      [
+      {"action": {"type": "text","label": "Удалить все оценки"},"color": "negative"},
+      {"action": {"type": "text","label": "Удалить всё"},"color": "negative"} 
+      ],
+      [
+      {"action": {"type": "text","label": "Изменить степень злости учителя"},"color": "primary"} 
+      ] 
+      
+
+  ]
+}

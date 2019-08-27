@@ -1,0 +1,12 @@
+{
+    "one_time": false,
+  "buttons": [
+      [
+      {"action": {"type": "text","label": "Да, удалить всё"},"color": "negative"}
+      ],
+      [
+      {"action": {"type": "text","label": "Отмена"},"color": "primary"}
+      ]
+
+  ]
+}

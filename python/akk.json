@@ -1,0 +1,12 @@
+{
+    "one_time": false,
+  "buttons": [
+      [
+      {"action": {"type": "text","label": "Создать новый профиль"},"color": "primary"} 
+      ],
+      [
+      {"action": {"type": "text","label": "Оставить старый"},"color": "default"}
+      ]
+
+  ]
+}

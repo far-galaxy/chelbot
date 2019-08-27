@@ -1,0 +1,9 @@
+{
+    "one_time": false,
+  "buttons": [
+      [
+      {"action": {"type": "text","label": "Главная"},"color": "primary"}
+      ]
+
+  ]
+}
